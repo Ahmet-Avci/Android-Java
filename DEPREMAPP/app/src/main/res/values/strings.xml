@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TURKIYE DEPREM</string>
+    <string name="title_activity_deprem">deprem</string>
+    <string name="title_home">ANA EKRAN</string>
+    <string name="title_dashboard">DEPREMLER</string>
+    <string name="title_notifications">ÖNLEM</string>
+    <string name="channel_name">EarthquakeIstanbul</string>
+    <string name="channel_description">Son depremleri bildirir</string>
+</resources>

@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "889051836938",
+    "firebase_url": "https://turkiye-deprem.firebaseio.com",
+    "project_id": "turkiye-deprem",
+    "storage_bucket": "turkiye-deprem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889051836938:android:1761e5eed125cc1bd5e5f3",
+        "android_client_info": {
+          "package_name": "earthquake.takip.istanbul.deprem.istanbuldeprem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889051836938-n6056blbdce1ctji195j5rbnegu38o7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzdAq1uj_bn_D4NZfoMAAPxSBwYws1Ecw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889051836938-n6056blbdce1ctji195j5rbnegu38o7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5292572003338215~9387999733"
+    }
+  ],
+  "configuration_version": "1"
+}
